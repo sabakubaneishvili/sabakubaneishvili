@@ -1,8 +1,6 @@
 <h3>Hello Friend.</h3>
 
 
-<p>"No Secret Stays Safe" - xpose</p>
-
 <p align="left">
 </p>
 
